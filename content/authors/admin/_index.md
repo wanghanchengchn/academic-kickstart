@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Student
+role: Senior
 
 # Organizations/Affiliations
 organizations:
