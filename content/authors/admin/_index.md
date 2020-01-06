@@ -14,7 +14,7 @@ role: Senior
 
 # Organizations/Affiliations
 organizations:
-- name: JiLin University
+- name: Jilin University
   url: "https://www.jlu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
