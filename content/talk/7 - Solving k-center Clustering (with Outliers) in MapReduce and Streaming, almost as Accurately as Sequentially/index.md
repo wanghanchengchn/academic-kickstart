@@ -23,7 +23,7 @@ date: "2019-12-31T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2019-02-14T15:00:00Z"
+publishDate: "2019-2-14T15:00:00Z"
 
 authors: [admin]
 tags: ["2019 VLDB 论文阅读"]
