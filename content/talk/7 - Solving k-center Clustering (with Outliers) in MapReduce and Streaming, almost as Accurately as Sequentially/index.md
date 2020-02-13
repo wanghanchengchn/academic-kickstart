@@ -18,12 +18,12 @@ abstract: "本周我阅读了2019 VLDB Solving k-center Clustering (with Outlier
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 # date: "2019-11-10T15:00:00Z"
-date: "2020-02-12T15:00:00Z"
+date: "2020-02-14T15:00:00Z"
 # date_end: "2019-11-10T15:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-02-12T15:00:00Z"
+publishDate: "2020-02-14T15:00:00Z"
 
 authors: [admin]
 tags: ["2019 VLDB 论文阅读"]
