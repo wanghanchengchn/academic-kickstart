@@ -1,6 +1,6 @@
 ---
-title: 在MapReduce和Streaming场景下的k中心聚类论文翻译
-event: 本科毕业设计暨2019 VLDB 论文翻译
+title: 2019 VLDB Solving k-center Clustering (with Outliers) in MapReduce and Streaming, almost as Accurately as Sequentially 论文翻译
+event: 本科毕业设计暨2019 VLDB 论文阅读
 # event_url: https://example.org
 
 # location: Source Themes HQ
@@ -26,7 +26,7 @@ all_day: false
 publishDate: "2020-02-19T15:00:00Z"
 
 authors: [admin]
-tags: ["本科毕设", "论文翻译"]
+tags: ["本科毕业设计", "2019 VLDB 论文阅读"]
 
 # Is this a featured talk? (true/false)
 featured: false

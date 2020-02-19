@@ -26,7 +26,7 @@ all_day: false
 publishDate: "2020-02-14T15:00:00Z"
 
 authors: [admin]
-tags: ["2019 VLDB 论文阅读"]
+tags: ["本科毕业设计", "2019 VLDB 论文阅读"]
 
 # Is this a featured talk? (true/false)
 featured: false
