@@ -18,12 +18,12 @@ abstract: "本文基于更大的可组合核集这一idea，针对带有z个离�
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 # date: "2019-11-10T15:00:00Z"
-date: "2020-02-19T15:00:00Z"
+date: "2020-02-21T15:00:00Z"
 # date_end: "2019-11-10T15:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-02-19T15:00:00Z"
+publishDate: "2020-02-21T15:00:00Z"
 
 authors: [admin]
 tags: ["本科毕业设计", "2019 VLDB 论文阅读"]
