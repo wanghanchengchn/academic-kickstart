@@ -1,5 +1,5 @@
 ---
-title: AniFilter: Parallel and Failure-Atomic Cuckoo Filter for Non-Volatile Memories.
+title: 2020年09月04日晚组会论文阅读.
 event: 组会论文阅读
 # event_url: https://example.org
 
@@ -10,8 +10,7 @@ event: 组会论文阅读
 #   region: CA
 #   postcode: '94305'
 #   country: United States
-
-summary: [EuroSys'20] AniFilter: Parallel and Failure-Atomic Cuckoo Filter for Non-Volatile Memories.
+summary: "[EuroSys'20]AniFilter Parallel and Failure-Atomic Cuckoo Filter for Non-Volatile Memories."
 # abstract: "本周我阅读了2019 VLDB Efficient Algorithms for Densest Subgraph Discovery 一文，阅读汇报详见PPT。基于密度的聚类方法可以发现网络中的稠密子图，这些稠密区域代表了网络中最有凝聚力的部分，特殊形体的稠密区域识别网络中的特殊功能模块，因而被应用于社区发现之中。"
 
 
