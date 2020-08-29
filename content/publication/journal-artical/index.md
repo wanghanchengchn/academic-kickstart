@@ -5,7 +5,7 @@ authors:
 - Xiongfei Li
 - Xiaoli Zhang
 - _**Test**_
-- Hancheng Wang
+- **Hancheng Wang**
 date: "2019-08-02T00:00:00Z"
 doi: "10.1109/ACCESS.2019.2933437"
 
