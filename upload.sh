@@ -4,7 +4,6 @@ git add .
 git commit -m "Initial commit"
 git push -u origin master
 hugo
-# hugo 
 cd public
 git add .
 git commit -m "Build website"
