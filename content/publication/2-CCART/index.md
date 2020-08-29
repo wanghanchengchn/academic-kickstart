@@ -1,5 +1,5 @@
 ---
-title: "C_CART: An instance confidence-based decision tree algorithm for classification."
+title: "C_CART: An instance confidence-based decision tree algorithm for classification"
 authors:
 - Shuang Yu
 - Xiongfei Li
@@ -11,7 +11,7 @@ date: "2020-08-25T00:00:00Z"
 # doi: "10.1109/ACCESS.2019.2933437"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-07-01T00:00:00Z"
+# publishDate: "2021-07-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

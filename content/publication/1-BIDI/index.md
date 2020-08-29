@@ -1,5 +1,5 @@
 ---
-title: "BIDI: A classification algorithm with instance difficulty invariance."
+title: "BIDI: A classification algorithm with instance difficulty invariance"
 authors:
 - Shuang Yu
 - Xiongfei Li
