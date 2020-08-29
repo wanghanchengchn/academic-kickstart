@@ -1,5 +1,5 @@
 ---
-title: 2020年09月04日晚组会论文阅读.
+title: 2020年09月04日晚组会论文阅读
 event: 组会论文阅读
 # event_url: https://example.org
 
