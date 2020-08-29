@@ -4,7 +4,7 @@ authors:
 - Shuang Yu 
 - Xiongfei Li
 - Xiaoli Zhang
-- <a href="/authors/admin/"><strong>Hancheng Wang</strong>
+- <a href="/authors/admin/"><strong>Hancheng Wang</strong></a>
 
 date: "2019-08-02T00:00:00Z"
 doi: "10.1109/ACCESS.2019.2933437"

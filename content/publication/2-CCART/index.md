@@ -3,7 +3,7 @@ title: "C_CART: An instance confidence-based decision tree algorithm for classif
 authors:
 - Shuang Yu
 - Xiongfei Li
-- <a href="/authors/admin/"><strong>Hancheng Wang</strong>
+- <a href="/authors/admin/"><strong>Hancheng Wang</strong></a>
 - Xiaoli Zhang
 - Shiping Chen
 

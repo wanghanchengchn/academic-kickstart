@@ -3,11 +3,11 @@ title: "BIDI: A classification algorithm with instance difficulty invariance"
 authors:
 - Shuang Yu
 - Xiongfei Li
-- <a href="/authors/admin/"><strong>Hancheng Wang</strong>
+- <a href="/authors/admin/"><strong>Hancheng Wang</strong></a>
 - Xiaoli Zhang
 - Shiping Chen
 
-date: "2020-08-24T00:00:00Z"
+date: "2020-08-28T00:00:00Z"
 # doi: "10.1109/ACCESS.2019.2933437"
 
 # Schedule page publish date (NOT publication's date).
