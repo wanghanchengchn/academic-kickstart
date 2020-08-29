@@ -76,4 +76,4 @@ user_groups:
 
 Hello, my name is Hancheng Wang (王瀚橙). I am a first-year Ph.D. student in the Department of Computer Science and Technology, Nanjing University, supervised by professor [Guihai Chen](https://cs.nju.edu.cn/gchen/) and [Haipeng Dai](https://cs.nju.edu.cn/daihp/). My research interests include data mining and parallel computing.
 
-Currently, I am working on improving the performance of cuckoo filter.
+Currently, I am working on improving the performance of the cuckoo filter.
