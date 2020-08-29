@@ -3,7 +3,7 @@ title: "The OCS-SVM: An Objective-Cost-Sensitive SVM With Sample-Based Misclassi
 authors:
 - Shuang Yu
 - Xiongfei Li
-- Xiaoli Zhang
+- **Xiaoli Zhang**
 - Te**st**
 - admin
 date: "2019-08-02T00:00:00Z"
