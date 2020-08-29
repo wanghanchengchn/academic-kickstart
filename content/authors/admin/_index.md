@@ -10,26 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Jilin University
-  url: "https://www.jlu.edu.cn/"
+- name: Nanjing University
+  url: "https://www.nju.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning and data mining.
+bio: Your comments and suggestions are welcome!
 
 interests:
 - Data Mining
+- Parallel Computing
 - Machine Learning
-- Evolutionary Computation
 
 education:
   courses:
-  - course: BSc in Software Engineering
+  - course: B.E. in Software Engineering
     institution: Jilin University
-    year: 2020 (expected)
+    year: 2020
+  - course: Ph.D. Candidate in Computer Science and Technology
+    institution: Nanjing University
+    year: 2020 - now
 
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
@@ -71,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-Hello, my name is Hancheng Wang (王瀚橙). I am studying for a B.S. degree at the College of Software at Jilin University. My research interests include machine learning and evolutionary computation.
+Hello, my name is Hancheng Wang (王瀚橙). I am a first-year Ph.D. candidate in the Department of Computer Science and Technology, Nanjing University. My research interests include data mining and parallel computing.
 
-Currently, I am working on solving k-center Clustering (with Outliers) in MapReduce and Streaming.
+Currently, I am working on improving performance of cuckoo filter.
