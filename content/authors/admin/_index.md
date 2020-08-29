@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
@@ -30,7 +30,7 @@ education:
   - course: B.E. in Software Engineering
     institution: Jilin University
     year: 2020
-  - course: Ph.D. Candidate in Computer Science and Technology
+  - course: Ph.D. Student in Computer Science and Technology
     institution: Nanjing University
     year: 2020 - now
 
@@ -74,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-Hello, my name is Hancheng Wang (王瀚橙). I am a first-year Ph.D. candidate in the Department of Computer Science and Technology, Nanjing University. My research interests include data mining and parallel computing.
+Hello, my name is Hancheng Wang (王瀚橙). I am a first-year PhD student in the Department of Computer Science and Technology at Nanjing University, supervised by professor <a href="https://cs.nju.edu.cn/gchen/">Guihai Chen</a> and <a href="https://cs.nju.edu.cn/daihp/">Haipeng Dai</a>. My research interests include data mining and parallel computing.
 
-Currently, I am working on improving performance of cuckoo filter.
+Currently, I am working on improving the performance of cuckoo filter.
