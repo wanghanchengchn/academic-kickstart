@@ -7,7 +7,7 @@ authors:
 - Xiaoli Zhang
 - Shiping Chen
 
-# date: "2020-08-25T00:00:00Z"
+date: "2020-08-24T00:00:00Z"
 # doi: "10.1109/ACCESS.2019.2933437"
 
 # Schedule page publish date (NOT publication's date).

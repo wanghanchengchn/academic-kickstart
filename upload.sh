@@ -3,7 +3,7 @@ git submodule add -f -b master https://github.com/wanghanchengchn/wanghanchengch
 git add .
 git commit -m "Initial commit"
 git push -u origin master
-hugo --gc
+# hugo --gc
 hugo
 cd public
 git add .
