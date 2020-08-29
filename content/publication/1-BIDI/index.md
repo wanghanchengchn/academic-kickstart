@@ -20,7 +20,7 @@ date: "2020-08-28T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Expert Systems With Applications"
+publication: "Expert Systems With Applications, accepted"
 publication_short: ""
 
 abstract: 
