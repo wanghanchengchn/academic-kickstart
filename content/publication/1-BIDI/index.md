@@ -8,7 +8,7 @@ authors:
 - Shiping Chen
 
 date: "2020-08-28T00:00:00Z"
-# doi: "10.1109/ACCESS.2019.2933437"
+doi: "https://doi.org/10.1016/j.eswa.2020.113920"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2021-07-01T00:00:00Z"
